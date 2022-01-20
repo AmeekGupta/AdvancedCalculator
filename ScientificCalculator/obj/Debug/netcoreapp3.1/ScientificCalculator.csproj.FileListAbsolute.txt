@@ -1,0 +1,16 @@
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.exe
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.deps.json
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.runtimeconfig.json
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.runtimeconfig.dev.json
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.dll
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.pdb
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.csproj.AssemblyReference.cache
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.Form1.resources
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.Properties.Resources.resources
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.csproj.GenerateResource.cache
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.AssemblyInfoInputs.cache
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.AssemblyInfo.cs
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.csproj.CoreCompileInputs.cache
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.dll
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.pdb
+D:\ScienticCalc_C#\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.genruntimeconfig.cache
